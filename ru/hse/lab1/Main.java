@@ -8,7 +8,7 @@ import ru.hse.lab1.second.Person;
 
 public class Main {
     public static void main(String[] args) {
-        Person ivan = new Person(12, "ivan");
+        Person ivan = new Person(16, "ivan");
 
         System.out.print(ivan.getAge());
     }
